@@ -1,2 +1,2 @@
 # UberClone
-uber clone app tryed to add basic functionality of uber
+Drever app tryed to add basic functionality of uber
